@@ -1,0 +1,24 @@
+#users {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+.users-container {
+    background: linear-gradient(
+    100deg,
+    rgb(16, 243, 255) 0%,
+    rgb(149, 0, 255) 60%
+  );
+}
+.posts-container {
+     background: linear-gradient(
+    100deg,
+    rgb(149, 0, 255) 0%,
+    rgb(16, 243, 255) 60%
+  );
+    width: 100%;
+    margin: auto;
+}
